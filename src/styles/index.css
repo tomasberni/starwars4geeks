@@ -1,3 +1,58 @@
 /* 
     General Styles
 */
+.starIcon {
+    height: 70px;
+    width: auto;
+}
+
+.colorDropdown {
+    background-color: rgb(64, 11, 123) !important;
+}
+
+.dropdownFix {
+    height: 60px;
+    width: 140px;
+}
+
+.scrollable {
+    overflow-x: scroll;
+    margin-top: 20px;
+}
+
+.containMe {
+    max-height: 65%;
+    max-width: 50%;
+}
+
+.containMe2 {
+    max-height: 200px;
+}
+
+.card-img-top {
+    height: 90%;
+    width: auto;
+}
+
+.imagSize {
+    height: 60vh;
+    width: 45vh;
+}
+
+.imagSize2 {
+    height: 40vh;
+    width: 60vh;
+}
+
+.imagSize3 {
+    height: 50vh;
+    width: 50vh;
+}
+
+.fontSizing {
+    font-size: 0.8rem;
+}
+
+.planetHeight {
+    min-height: 450px;
+}

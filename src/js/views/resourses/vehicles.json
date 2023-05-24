@@ -1,0 +1,61 @@
+[
+{
+"id": 1,
+"name": "Sandcrawler",
+"description": "Los Sandcrawlers, originalmente llamados digger crawlers, eran enormes fortalezas móviles usadas por los Jawas como transporte y refugio en los desiertos de Tatooine y Arvala-7. Estaban equipados con un tubo de succión magnético para succionar droides y chatarra a la bodega de carga. También contenían bodegas de carga, instalaciones de procesamiento de chatarra y alojamientos para la tripulación y los pasajeros. Eran lo suficientemente grandes como para alojar a todo un clan Jawa."
+}
+,
+{
+"id": 2,
+"name": "x-34 Landspeeder",
+"description": "El X-34 era un deslizador terrestre civil de cabina abierta fabricado por la Corporación SoroSuub. Un famoso propietario fue Luke Skywalker."
+}
+,
+{
+"id" : 3,
+"name" : "T-16 skyhopper",
+"description": "Los saltacielos T-16 eran aerodeslizadores repulsores personales, reconocibles por su diseño distintivo de tresalas, fabricado por la Corporación Incom. Fue un aerodezliados de alto rendimiento y popular, debido a que era un transporte confiable y estable en casi cualquier, y era la primera nave de entrenamiento de muchos jóvenes. El diseño trihédrico del T-16 se parecía mucho al de la lanzadera T-4a clase Lambda Imperial."
+}
+,
+{
+"id": 4,
+"name": "TIE Fighter",
+"description": "El caza estelar TIE/LN, o caza estelar TIE/line, conocido simplemente como caza TIE o T/F, fue el caza estelar imperial estándar visto en grandes cantidades durante la mayor parte de la Guerra Civil Galáctica y en adelante. Coloquialmente, los pilotos Rebeldes y de la Nueva República se referían a la nave como 'globos oculares'."
+}
+,
+{
+"id": 5,
+"name": "Snowspeeder",
+"description": "El aerodeslizador T-47, también conocido como Snowspeeder es una nave pequeña,desarrollada por los astilleros de Incom, originalmente como nave de carga pero fue modificada por los ingenieros de la alianza rebelde para combatir bajo la hostilidad del planeta helado de Hoth. Uno de los ingenieros fue Deen Voorson que añadió unos calentadores en los mandos de dirección y unos anticongelantes en los cuadros de mandos para prevenir la congelación de estos. Muchos materiales fueron reciclados en esta nave como La cabina las pantallas de control y los mandos que provienen de un Ala-Y. Esta armado con dos cañones láser delanteros AP/11 y la unidad de carga esta convertida en la cabina del artillero a la que se ha añadido computadoras de dirección de tiro y sistemas para que en caso de causar baja el artillero el piloto puede tomar el control de los láser y del arpón magnético. Debido al aumento de peso el motor fue mejorado con un control de potencia avanzado, con unos propulsores ligeros que aumentan la maniobrabilidad para evadir los blásters enemigos. En su parte posterior tiene un arpón que dispara un cable resistente. fue utilizado por la Alianza para Restaurar la República en Hoth, ya que tenía excelentes prestaciones aún en los climas más difíciles."
+}
+,
+{
+"id": 6,
+"name": "AT-AT",
+"description": "El Transporte Acorazado Todo Terreno (AT-AT) era un caminante de combate de cuadrúpedo utilizado por las fuerzas terrestres del Imperio Galáctico. Con el Destructor Estelar clase Imperial y el caza TIE, era uno de los símbolos más famosos del poderío militar del Imperio."
+}
+,
+{
+"id": 7,
+"name": "TIE Bomber",
+"description": "El bombardero TIE/sa, formalmente conocido como bombardero de asalto de superficie TIE y también como bombardero táctico TIE/sa o simplemente bombardero TIE, era una variante de bombardeo de la línea TIE utilizada por el Imperio Galáctico. Evolución del TIE/gt, el bombardero TIE era su principal fuente de apoyo aéreo antiemplazamiento. Fueron apodados 'dupes' por el piloto de la Nueva República Wyl Lark."
+}
+,
+{
+"id": 8,
+"name": "AT-ST",
+"description":"El Transporte de Exploración Todo Terreno (AT-ST), también conocido como el caminante pollo por su diseño de dos patas, era un caminante bípedo utilizado por la República Galáctica durante los últimos días de las Guerras Clon y, más tarde y más extensamente, por el Imperio Galáctico durante La Guerra Civil Galáctica. Era un sucesor del AT-XT."
+}
+,
+{
+"id": 9,
+"name": "Storm IV Twin-Pod",
+"description": "El Storm IV Twin-Pod era una aeronave de repulsión atmosférica fabricada por Bespin Motors y diseñada con fines de patrulla y policiales. El Storm IV, un modelo de coche nuboso, constaba de dos 'cápsulas' gemelas conectadas por un motor de repulsión y estaba propulsado por un motor iónico. El piloto del vehículo controlaba la nave desde la cápsula situada a babor, mientras que el artillero alojado en la cápsula de estribor se sentaba a los mandos de un par de cañones bláster ligeros."
+}
+,
+{
+"id": 10,
+"name": "Sail barge",
+"description": "El Khetanna era una barcaza de vela de lujo LO-KD57 fabricada por Industrias Ubrikkian que fue modificada para satisfacer las necesidades del señor del crimen Hutt Jabba. Después de que el caballero Jedi Luke Skywalker matara al rancor mascota de Jabba, el señor del crimen exigió que Skywalker y sus compañeros Han Solo y Chewbacca fueran ejecutados en el Gran Foso de Carkoon. El Hutt y su séquito viajaron a la fosa de Khetanna para presenciar las ejecuciones, pero los prisioneros consiguieron subir a la barcaza velero y matar a Jabba, destruyendo la barcaza velero mientras escapaban."
+}
+]

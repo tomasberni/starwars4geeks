@@ -1,0 +1,61 @@
+[
+{
+"id": 1,
+"name": "Tatooine",
+"description": "Tatooine era un planeta desértico circunvolucional escasamente habitado ubicado en los Territorios del Borde Exterior de la galaxia. Servio como el planeta natal de los influyentes Anakin y Luke Skywalker, que le darían forma a la historia galáctica. Parte de un sistema estelar binario, el planeta era oprimido por los soles abrasadores, lo que provocó que el mundo careciera de las aguas superficiales necesarias para sostener grandes poblaciones. Como resultado, muchos residentes del planeta sacaron agua de la atmósfera a través de granjas de humedad."
+}
+,
+{
+"id": 2,
+"name": "Alderaan",
+"description": "Alderaan, situado en los Mundos del Núcleo, fue un planeta terrestre cubierto de montañas. Durante las últimas décadas de la República Galáctica, estuvo gobernado por la Reina Breha Organa y representado en el Senado Galáctico por su marido, el Senador Bail Prestor Organa. Alderaan era célebre por su belleza natural, su tranquilidad, y su cultura y arte sofisticados.Tras el alzamiento del Imperio Galáctico de Sheev Palpatine, Alderaan jugó un papel clave en el establecimiento de la Alianza Rebelde, un movimiento que buscaba restaurar los valores de la Antigua República, y fue uno de sus primeros apoyos. Debido a sus vínculos con la Alianza, el planeta fue destruido cuando el Gran Moff Wilhuff Tarkin decidió probar el superláser de la Estrella de la Muerte, una estación de combate del tamaño de una luna desarrollada por el Imperio, a plena potencia. Entre los pocos supervivientes del desastre se encontraba la Princesa Leia Organa, la hija adoptiva de Bail y Breha Organa y heredera de la casa real de Alderaan."
+}
+,
+{
+"id" : 3,
+"name" : "Yavin 4",
+"description": "Yavin 4 fue la cuarta luna en órbita del gigante gaseoso Yavin Prime, cubierta de junglas. En algún momento durante la Guerra Civil Galáctica, albergó la base principal de la Alianza Para Restaurar la República, un grupo de luchadores de la resistencia que se oponían a la tiranía del Imperio Galáctico. Tras una gran batalla que tuvo lugar alrededor de Yavin, la Alianza trasladó su base a Hoth."
+}
+,
+{
+"id": 4,
+"name": "Hoth",
+"description": "Hoth era un helado y remoto planeta que fue el sexto planeta del sistema estelar del mismo nombre. En particular, albergó la Base Eco, sede temporal de la Alianza para Restaurar la República, hasta que el Imperio Galáctico localizó a los rebeldes, iniciando una gran confrontación conocida como la Batalla de Hoth."
+}
+,
+{
+"id": 5,
+"name": "Dagobah",
+"description": "Dagobah era un planeta en el sistema Dagobah, y uno de los lugares más puros de la galaxia dentro de la Fuerza. Un mundo lejano lleno de pantanos y bosques, sirvió como refugio para el Gran Maestro Jedi Yoda durante su exilio tras la destrucción de la Orden Jedi. Fue allí donde Luke Skywalker recibió un entrenamiento avanzado en los caminos de la Fuerza bajo la tutela del Maestro Jedi Yoda y más tarde sería testigo de su muerte y transformación en la Fuerza."
+}
+,
+{
+"id": 6,
+"name": "Bespin",
+"description": "Bespin era un inmenso gigante gaseoso ubicado en las proximidades del sistema Anoat, un sector desolado de la galaxia. Bespin tenía varias lunas, y su masa gaseosa contenía un estrato delgado de atmósfera habitable. Sus capas eran una fuente rara de gas tibanna, que era cosechado y refinado en varios complejos mineros, como Ciudad Nube, una metrópoli opulenta suspendida en las enormes nubes ondulantes del planeta. La ciudad ugnaught de Ugnorgrad también estaba ubicada sobre el planeta, siendo gobernada por el Rey Ozz en el tiempo posterior a la Batalla de Endor. Durante la Guerra Civil Galáctica, Bespin permaneció sin afiliación, pero eso no impidió que el Imperio Galáctico acuartelara el planeta y se apoderara de Ciudad Nube. Sin embargo, con la derrota del Imperio en Endor, el gigante gaseoso y su próspera colonia minera terminaron recuperando su libertad."
+}
+,
+{
+"id": 7,
+"name": "Endor",
+"description": "Endor (también conocido como la Luna Boscosa de Endor o la Luna Santuario) era una pequeña luna boscosa que orbitaba el planeta del Borde Exterior de su mismo nombre y era el mundo naral de las especies inteligentes Ewoks y de Yuzzums."
+}
+,
+{
+"id": 8,
+"name": "Naboo",
+"description":"Originalmente, Naboo fue el hogar de los anfibios gungans. Los primeros alienígenas en llegar fueron una especie de reptil conocida como los Ancianos que lucharon contra los gungans. Finalmente, los Ancianos desaparecieron tan misteriosamente como llegaron, dejando solo estatuas de piedra. Durante miles de años después, los gungans florecieron hasta que un grupo de colonos humanos de Grizmallt aterrizó en Naboo. Inicialmente, los gungans se retiraron bajo el agua y evitaron a los colonos. Cuando estos finalmente encontraron a los colonos, la diplomacia falló y las dos especies pelearon una serie de guerras por el territorio y los recursos antes de decidir vivir separados e ignorarse mutuamente. Una serie de guerras internas entre las tribus gungans y las ciudades-estado humanas finalmente terminaron con ambas facciones unificadas a su manera, pero aún así separadas de todos modos."
+}
+,
+{
+"id": 9,
+"name": "Coruscant",
+"description": "Coruscant, también conocido como Centro Imperial durante el reinado del Imperio Galáctico, fue una ecumenópolis—un planeta cubierto de ciudad, colectivamente conocida como Ciudad Galáctica— en el sistema Coruscant de los Mundos del Núcleo. Aunque era asunto de debate entre los historiadores, en general se creía que Coruscant era el planeta natal original de la humanidad. Destacado por su cultura cosmopolita y sus enormes rascacielos, la población de Coruscant consistía en aproximadamente un billón de ciudadanos pertenecientes a un amplio abanico de especies humanoides y alienígenas. Además, la ubicación estratégica de Coruscant al final de varias grandes rutas hiperespaciales permitió que creciera en poder e influencia, haciendo que el planeta-ciudad superara a sus rivales iniciales y se convirtiera en un núcleo galáctico de cultura, educación, finanzas, artes, política y tecnología. Albergaba varios puntos de gran interés, incluido el Templo Jedi, la Plaza de los Monumentos y el Edificio del Senado Galáctico."
+}
+,
+{
+"id": 10,
+"name": "Kamino",
+"description": "Kamino era un planeta acuático ubicado en un sistema estelar extragaláctico que se encontraba al sur de la galaxia satélite Laberinto Rishi y más allá de la galaxia conocida. Estaba habitado por los kaminoanos, una raza de seres altos y esbeltos que eran considerados como una especie misteriosa con tendencia al hermetismo. También eran conocidos por su tecnología de clonación que finalmente condujo a la creación de un ejército clon para la República Galáctica."
+}
+]

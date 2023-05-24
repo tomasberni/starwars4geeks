@@ -1,0 +1,61 @@
+[
+{
+"id": 1,
+"name": "Luke Skywalker",
+"description": "Luke Skywalker fue un legendario héroe de guerra y Jedi que fundó la Nueva Orden Jedi. Era el hijo del Caballero Jedi Anakin Skywalker y la senadora Padmé Amidala de Naboo, además hermano mellizo de Leia Organa. Se unió a la Alianza para Restaurar la República y su más grande hazaña fue destruir la primera Estrella de la Muerte. También fue responsable de influenciar a Darth Vader, el Señor Sith que fue su padre, para que matara al Emperador Palpatine, iniciando el camino para la caída del Imperio Galáctico y la formación de la Nueva República. Después fue ascendido a general, aunque dejó al ejército para convertirse en un miembro influyente de la Nueva República y un prominente Maestro Jedi."
+}
+,
+{
+"id": 2,
+"name": "C-3PO",
+"description": "C-3PO ( 'Citripio' , a veces abreviado como 3PO, 'Tripio' o también Cetrespeó) era un droide de protocolo serie 3PO, diseñado para interactuar con humanos. Hablaba con fluidez más de seis millones de formas de comunicación, y desarrolló una exigente y preocupada personalidad a lo largo de sus varias décadas de operación. Tras ser destruido y desechado en Tatooine antes de 32 ABY, C-3PO fue reconstruido; su naturaleza reconstruida lo hizo diferente de otros modelos similares de droides. Junto a su compañero, el droide astromecánico R2-D2, C-3PO constantemente se vio involucrado en momentos esenciales de la historia galáctica, y ayudó a salvar la galaxia en muchas ocasiones. C-3PO consideraba a varios droides y seres orgánicos como amigos suyos, y era muy dedicado a ellos, así como a sus amos."
+}
+,
+{
+"id" : 3,
+"name" : "R2-D2",
+"description": "R2-D2, pronunciado Artoo-Deetoo/Erredós-Dedós y a menudo referido como R2 (Artoo/Erredós), fue un droide astromecánico serie R2 manufacturado por Industrias Automaton con programación masculina. Un ingenioso y valiente droide, R2-D2 sirvió a una multitud de maestros a lo largo de su vida. R2 nunca recibió un borrado completo de memoria ni recibió programación nueva, lo que resultó en su actitud aventurera e independiente. A menudo viéndose implicado en momento vitales de la historia galáctica, su valentía e ingenio salvaron a la galaxia repetidas veces."
+}
+,
+{
+"id": 4,
+"name": "Anakin Skywalker",
+"description": "Anakin Skywalker, un hombre humano sensible a la Fuerza, fue un Caballero Jedi de la República Galáctica y el Elegido de la Fuerza. Durante las Guerras Clon, sus logros como comandante en el campo de batalla le valieron el apodo del Héroe Sin Miedo. Después de pasar al lado oscuro de la Fuerza, se hizo conocido como Darth Vader, un Señor Oscuro de los Sith y aprendiz del Emperador Darth Sidious. Como Lord Sith, Vader se volvió contra sus antiguos camaradas y dió caza a los Jedi sobrevivientes hasta su casi extinción. Se convirtió en un ejecutor del Imperio Galáctico, que trabajó para aplastar a la Alianza para Restaurar la República por oponerse a la voluntad de su Maestro Sith. Sin embargo, a pesar de sus acciones como Darth Vader, un destello del lado luminoso de la Fuerza permaneció dentro del antiguo Anakin Skywalker."
+}
+,
+{
+"id": 5,
+"name": "Leia Organa",
+"description": "Leia Skywalker Organa Solo fue una política humana sensible a la Fuerza y una líder militar que sirvió en la Alianza para Restaurar la República durante la Era Imperial y en la Resistencia en la subsiguiente Era de la Nueva República. Adoptada en la Casa de Organa, la familia real alderaaniana, ella fue la Princesa Leia Organa de Alderaan, un planeta de los Mundos del Núcleo conocido por su dedicación al pacifismo. La princesa fue criada como la hija del Senador Bail Prestor Organa y su mujer, la Reina Breha Organa, lo que la convertía en la heredera de la monarquía alderaaniana. Inculcada con los valores de su mundo adoptivo, Organa dedicó su vida a la restauración de la democracia oponiéndose a regímenes autoritarios como el Imperio Galáctico y la Primera Orden."
+}
+,
+{
+"id": 6,
+"name": "Owen Lars",
+"description": "Owen Lars era un granjero de humedad humano del planeta desertico Tatooine. Era el hijo de Aika y Cliegg Lars, y se convirtió en el hermanastro del Caballero Jedi Anakin Skywalker cuando Cliegg se volvió a casar con la madre de Anakin, Shmi Skywalker, una antigua esclava. En el 22 ABY, Shmi fue asesinada por Incursores Tusken y Cliegg falleció poco después, convirtiéndose Owen en el responsable de la granja de su familia. Por esa época, Lars se casó con su novia, Beru Whitesun, y trabajaron duro para mantener la casa."
+}
+,
+{
+"id": 7,
+"name": "Bery Whitesun",
+"description": "Beru Whitesun Lars, nacida Beru Whitesun, fue una mujer humana del planeta Tatooine. Estaba casada con Owen Lars, el hermanastro del Caballero Jedi Anakin Skywalker, cuyo hijo, Luke Skywalker, criaron durante el reinado del Imperio Galáctico. Lars fue asesinada junto con su esposo por soldados de asalto Imperiales, quienes también incendiaron la granja de humedad de los Lars. Con sus muertes, Skywalker dejó su mundo natal y se unió a la Alianza para Restaurar la República."
+}
+,
+{
+"id": 8,
+"name": "R5-D4",
+"description":"R5-D4 pertenecía a los Jawas de Tatooine que capturaron a R2-D2 y C-3PO cuando estos se perdieron en el desierto tras escapar de la Tantive IV con los planes de la Estrella de la Muerte, y así comerciar con ellos. R5-D4 fue ofrecido a la familia de acogida de Luke Skywalker, Owen y Beru Lars, pero un fallo en el impulsor de este acabó con el negocio, decidiendo Owen quedarse con R2-D2, gracias al consejo dado por C-3PO, también vendido a estos por los Jawas. R5-D4 más tarde fue destruido, junto con los Jawas y el resto de droides de estos, por los soldados de asalto imperiales que seguían el rastro de R2-D2 y C-3PO."
+}
+,
+{
+"id": 9,
+"name": "Biggs Darklighter",
+"description": "Biggs Darklighter was a human male ace pilot who fought for the Alliance to Restore the Republic during the early days of the Galactic Civil War. He grew up on the desert world of Tatooine, where he became a close boyhood friend of Luke Skywalker. The two became pilots and dreamed of leaving Tatooine. Darklighter left his homeworld for the Imperial Academy, but defected from the Galactic Empire after graduation in order to join the Rebel Alliance. He returned to Tatooine one final time to tell Skywalker of his plans."
+}
+,
+{
+"id": 10,
+"name": "Obby-Wan Kenobi",
+"description": "Obi-Wan Kenobi fue un legendario Maestro Jedi humano que sirvió en el Alto Consejo Jedi durante los últimos añosde la Era de la República. Como General Jedi, Kenobi sirvió en el Gran Ejército de la República durante las Guerras Clon. Kenobi, sin embargo, se vio obligado a exiliarse como resultado de la Gran Purga Jedi. Como mentor, Kenobi fue responsable del entrenamiento de dos miembros de la familia Skywalker, Anakin Skywalker y Luke Skywalker, sirviendo ambos como su Padawan para aprender los caminos de la Fuerza."
+}
+]
